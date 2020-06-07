@@ -1,4 +1,4 @@
 source 'https://rubygems.org' do
-  gem 'benchmark-ips', '~> 2.8', '>= 2.8.2'
+  gem 'benchmark-memory', '~> 0.1.2'
 end
 
